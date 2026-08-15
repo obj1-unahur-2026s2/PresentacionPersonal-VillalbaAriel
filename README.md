@@ -4,7 +4,9 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es Ariel Villalba, tengo 26 años y estoy cursando la Tecnicatura en Programacion.
+- Mi nombre es Ariel Villalba 
+- Tengo 26 años
+- Estoy cursando la Tecnicatura en Programacion.
 - Vivo en Hurlingham.
 
 
